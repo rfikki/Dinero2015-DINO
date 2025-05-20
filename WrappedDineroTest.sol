@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
+// @author: Rocky Fikki -rfikki
+
 // Import ERC20 token standard implementation from OpenZeppelin.
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 // Import Ownable contract for access control from OpenZeppelin.
